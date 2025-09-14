@@ -1,0 +1,23 @@
+footer {
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+footer .desenvolvedor {
+    background-color: black;
+}
+
+footer .desenvolvedor a {
+    color: gray;
+    text-decoration: none;
+}
+
+footer .desenvolvedor a:hover {
+    text-decoration: underline;
+}
+
+footer .desenvolvedor p {
+    font-size: small;
+    color: gray;
+}
